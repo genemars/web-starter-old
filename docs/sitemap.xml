@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://zuixjs.github.io//home/</loc>
+    <lastmod>2022-04-15</lastmod>
+  </url>
+
+  <url>
+    <loc>https://zuixjs.github.io//</loc>
+    <lastmod>2022-04-15</lastmod>
+  </url>
+
+  <url>
+    <loc>https://zuixjs.github.io//pages/docs/</loc>
+    <lastmod>2022-04-15</lastmod>
+  </url>
+
+  <url>
+    <loc>https://zuixjs.github.io//pages/docs/material-design-tags/</loc>
+    <lastmod>2022-04-15</lastmod>
+  </url>
+
+  <url>
+    <loc>https://zuixjs.github.io//pages/docs/pages-layout/</loc>
+    <lastmod>2022-04-15</lastmod>
+  </url>
+
+  <url>
+    <loc>https://zuixjs.github.io//search/</loc>
+    <lastmod>2022-04-15</lastmod>
+  </url>
+
+  <url>
+    <loc>https://zuixjs.github.io//pages/docs/quick-start/</loc>
+    <lastmod>2022-04-15</lastmod>
+  </url>
+
+  <url>
+    <loc>https://zuixjs.github.io//pages/docs/quick-start/new/</loc>
+    <lastmod>2022-04-15</lastmod>
+  </url>
+
+</urlset>
